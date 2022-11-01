@@ -85,7 +85,7 @@ html {
 }
 .pic::before
 {
-    content: "Create Memories with Us";
+    content: "Create Memories";
     text-align: center;
     position: absolute;
     top: 50%;
